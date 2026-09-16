@@ -1,7 +1,6 @@
 # VORA : La mobilité urbaine intelligente et contextualisée pour le Cameroun
 *Le transport connecté au rythme de nos réalités.*
 
----
 
 ## Reformulation du besoin
 
@@ -16,7 +15,7 @@ Le projet **VORA** répondra à quatre fractures concrètes du quotidien :
 
 **En résumé :** VORA ne sera pas un clone de VTC (Véhicule de Tourisme avec Chauffeur), mais une infrastructure numérique de transport adaptée au terrain, transformant les habitudes informelles de mobilité en un service fiable, abordable et sécurisé.
 
----
+
 
 ## Projet tel que présenté
 

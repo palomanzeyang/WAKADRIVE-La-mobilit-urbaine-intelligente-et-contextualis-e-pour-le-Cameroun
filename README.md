@@ -1,5 +1,4 @@
-# VORA-La-mobilit-urbaine-intelligente-et-contextualis-e-pour-le-Cameroun
-# Le transport connecté au rythme de nos réalités.
+# VORA-La-mobilit-urbaine-intelligente-et-contextualis-e-pour-le-Cameroun # Le transport connecté au rythme de nos réalités.
 # Reformulation du besoin
 Dans les métropoles camerounaises comme Douala et Yaoundé, les solutions classiques de transport à la demande échouent souvent parce qu'elles reposent sur un modèle occidental inadapté : adresses postales normées, courses exclusivement privées et forte dépendance à une connexion internet permanente. 
 Le projet VORA répondra à quatre fractures concrètes du quotidien :  La fracture géographique : Remplacer le système d'adresses standard par une cartographie basée sur les points de repère populaires (carrefours, marchés, édifices connus) et les indications contextuelles (notes ou consignes vocales). 
@@ -79,7 +78,10 @@ Vous serez notamment chargés de :
 • 🧩 Produire les icônes, illustrations et éléments graphiques nécessaires ;
 • 🤝 Collaborer étroitement avec les développeurs pour garantir une intégration fidèle des maquettes.
 Le design fera également partie de l’évaluation, notamment à travers :
-l’ergonomie • l’accessibilité • la cohérence visuelle • la qualité de l’expérience utilisateur
+• l’ergonomie  
+• l’accessibilité 
+• la cohérence visuelle
+• la qualité de l’expérience utilisateur
 
 💬 6. COMMUNICATION ET COLLABORATION
 

@@ -1,27 +1,26 @@
-# VORA : La mobilité urbaine intelligente et contextualisée pour le Cameroun
+# WakaDrive : La mobilité urbaine intelligente et contextualisée pour le Cameroun
 *Le transport connecté au rythme de nos réalités.*
-
 
 ## Reformulation du besoin
 
 Dans les métropoles camerounaises comme Douala et Yaoundé, les solutions classiques de transport à la demande échouent souvent parce qu'elles reposent sur un modèle occidental inadapté : adresses postales normées, courses exclusivement privées et forte dépendance à une connexion internet permanente. 
 
-Le projet **VORA** répondra à quatre fractures concrètes du quotidien : 
+Le projet **WakaDrive** répondra à quatre fractures concrètes du quotidien : 
 
 * **La fracture géographique :** Remplacer le système d'adresses standard par une cartographie basée sur les points de repère populaires (carrefours, marchés, édifices connus) et les indications contextuelles (notes ou consignes vocales).
 * **La fracture économique et d'usage :** Proposer un système hybride qui gère à la fois la course privée (dépôt) et le taxi partagé (ramassage) le long des grands axes, permettant aux usagers de réduire leurs coûts et aux chauffeurs d'optimiser leurs sièges vides.
 * **La fracture transactionnelle :** Supprimer le stress récurrent du rendu de monnaie et les tarifs à la tête du client grâce à une tarification transparente calculée en amont et un paiement direct via Mobile Money (MTN MoMo, Orange Money).
 * **La fracture sécuritaire et technique :** Garantir des trajets sûrs via des chauffeurs et véhicules identifiés, le partage de trajet par lien externe (SMS/WhatsApp), et une application ultra-légère conçue pour rester opérationnelle sur smartphones modestes et réseaux mobiles instables.
 
-**En résumé :** VORA ne sera pas un clone de VTC (Véhicule de Tourisme avec Chauffeur), mais une infrastructure numérique de transport adaptée au terrain, transformant les habitudes informelles de mobilité en un service fiable, abordable et sécurisé.
+**En résumé :** WakaDrive ne sera pas un clone de VTC (Véhicule de Tourisme avec Chauffeur), mais une infrastructure numérique de transport adaptée au terrain, transformant les habitudes informelles de mobilité en un service fiable, abordable et sécurisé.
 
-
+---
 
 ## Projet tel que présenté
 
-### 🚖 1. LE DÉFI : VORA
+### 🚖 1. LE DÉFI : WAKADRIVE
 
-Cette année, le projet de référence du Hackathon est VORA, une application de mobilité intelligente pensée pour répondre aux réalités du contexte camerounais.
+Cette année, le projet de référence du Hackathon est WakaDrive, une application de mobilité intelligente pensée pour répondre aux réalités du contexte camerounais.
 
 L’objectif n’est pas de reproduire une simple application de VTC existante, mais de concevoir une solution innovante, utile et adaptée aux réalités locales, capable d’améliorer les déplacements urbains.
 
@@ -35,7 +34,7 @@ Votre solution devra notamment prendre en compte des problématiques telles que 
 
 ### 💻 2. CE QUE VOUS DEVREZ RÉALISER
 
-Durant les 48 heures de compétition, chaque équipe devra concevoir et développer une solution mobile fonctionnelle intégrant au minimum :
+Il devra concevoir et développer une solution mobile fonctionnelle intégrant au minimum :
 * 🔐 **Authentification** des utilisateurs
 * 📍 **Géolocalisation**
 * 🗺️ **Cartographie interactive**
@@ -61,7 +60,6 @@ Voici quelques pistes d’innovation :
 * 🛡️ Fonctionnalités renforçant la sécurité des passagers et des chauffeurs
 * ⚡ Expérience utilisateur rapide, fluide et accessible
 
-> **Note :** Ne cherchez pas uniquement à faire fonctionner l’application. Cherchez à faire mieux que l’existant.
 
 ### 🤖 4. UTILISATION DE L’INTELLIGENCE ARTIFICIELLE
 
@@ -78,7 +76,7 @@ L’intelligence artificielle peut être utilisée comme outil d’accompagnemen
 ### 🎨 5. POUR LES DESIGNERS UI/UX ET GRAPHISTES
 
 Le rôle des designers sera essentiel dans la réussite des projets. Vous serez notamment chargés de :
-* 🎨 Concevoir une identité visuelle cohérente pour VORA
+* 🎨 Concevoir une identité visuelle cohérente pour WakaDrive
 * 🖌️ Réaliser les maquettes UI/UX sur Figma ou tout autre outil adapté
 * 🔄 Définir les parcours utilisateurs (User Flow)
 * 📱 Concevoir les différentes interfaces de l’application mobile

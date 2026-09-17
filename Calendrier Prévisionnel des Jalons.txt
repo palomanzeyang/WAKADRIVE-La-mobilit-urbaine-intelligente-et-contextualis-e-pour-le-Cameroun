@@ -1,0 +1,78 @@
+**Calendrier Prévisionnel des Jalons (Roadmap)**
+
+**Le déploiement du projet s'articule autour de 5 phases majeures :**
+
+
+
+**Phase 1 : Cadrage, Architecture \& Design**
+
+Objectifs : Validation du périmètre, conception technique et design des interfaces.
+
+
+
+Livrables clés :
+
+* Spécifications fonctionnelles et techniques (Lead Tech \& PO).
+* Architecture base de données PostGIS et choix technologiques.
+* Wireframes, Design System et prototypes Figma (UI/UX Designer) validés par les chauffeurs relais.
+* Validation initiale des aspects juridiques et réglementaires (Conseiller juridique).
+* Choix d'architecture  
+* Modèle de données avec prise en compte des spécificités géospatiales.
+* Constitution de la base de données de POI locaux (carrefours et repères connus sans adressage postal strict), intégration Mapbox/OSM, calcul d'itinéraires et algorithme de tarification dynamique (zones, état des voies).
+
+
+
+**Phase 2 : Développement du MVP - Core Backend \& Applications**
+
+Objectifs : Implémentation du cœur de la plateforme et des applications mobiles.
+
+
+
+Livrables clés :
+
+* Mise en place de l'infrastructure Cloud, Docker et pipelines CI/CD (DevOps).
+* Développement des APIs, de l'algorithme de matching et des flux temps réel (Lead Tech).
+* Développement des interfaces Passager et Chauffeur (Développeur Mobile), incluant le mode hors-ligne.
+* Intégration des bacs à sable (sandbox) des agrégateurs de paiement (MTN MoMo, Orange Money).
+
+
+
+**Phase 3 : Tests et Phase Domaines et de bout en bout** 
+
+Objectifs : Stabilisation de l'application en conditions réelles et corrections.
+
+
+
+Livrables clés :
+
+* Exécution des plans de tests de charge, sécurité et cas limites de réseau (Ingénieur QA).
+* Campagne de test pilote avec le panel d'usagers et chauffeurs relais (heures de pointe, quartiers périphériques).
+* Ajustements ergonomiques et correction des bugs critiques.
+
+
+
+**Phase 4 : Conformité Finale \& Mise en Production** 
+
+Objectifs : Préparation du lancement commercial et validation réglementaire.
+
+
+
+Livrables clés :
+
+* Audit de conformité des données (ART / lois locales) et validation des CGU (Conseiller juridique).
+* Bascule des APIs de paiement en mode production (MTN \& Orange).
+* Déploiement final sur les stores (App Store / Google Play).
+
+
+
+**Phase 5 : Suivi post-lancement \& Itérations** 
+
+Objectifs : Monitoring de la production et évolutions continues.
+
+
+
+Livrables clés :
+
+* Suivi des performances des serveurs et alertes de pannes (DevOps).
+* Analyse des retours utilisateurs pour les futures mises à jour (Backlog post-lancement).
+

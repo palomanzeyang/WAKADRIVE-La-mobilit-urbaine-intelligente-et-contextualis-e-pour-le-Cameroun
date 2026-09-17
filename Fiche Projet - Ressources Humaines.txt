@@ -1,0 +1,94 @@
+**Fiche Projet : Organisation des Ressources et Parties Prenantes**
+
+**Ce document présente la cartographie complète des rôles clés, tant au niveau de l'équipe de conception que des partenaires externes et de la gouvernance, dans le cadre du développement de la solution de transport.**
+
+
+
+1\. L’équipe cœur (Conception \& Réalisation)
+
+* Chef de projet / Product Owner (PO) -- (Lead QA)
+
+
+
+Mission principale : Pilote la feuille de route, priorise le backlog, coordonne les équipes et s’assure du respect des délais et du budget. Il fait le pont entre les besoins des utilisateurs et la réalisation technique.
+
+
+
+* Lead Tech / Architecte logiciel \& Développeur Backend (Java Spring Boot)
+
+
+
+Mission principale : Conçoit l'architecture globale (APIs, microservices, base de données géospatiale PostGIS). Il développe la logique métier : calcul de prix, algorithme de matching de courses, gestion du temps réel (WebSockets/MQTT) et sécurisation des données.
+
+
+
+* Développeur Mobile (iOS / Android — Flutter ou React Native)
+
+
+
+Mission principale : Développe les deux applications mobiles (passager et chauffeur), intègre les maquettes graphiques, connecte les flux temps réel et gère le cache hors-ligne en cas de réseau instable.
+
+
+
+* UI/UX Designer
+
+
+
+Mission principale : Mène la recherche utilisateur, conçoit les wireframes, prototypes Figma et le design system. Il optimise l'ergonomie pour les spécificités locales (saisie simplifiée, repères visuels clairs, contrastes adaptés au soleil).
+
+
+
+* Ingénieur QA / Testeur
+
+
+
+Mission principale : Rédige et exécute les plans de tests (fonctionnels, charge, sécurité, cas limites de perte de réseau ou de GPS) pour garantir la stabilité avant la mise en production.
+
+
+
+2\. Les interlocuteurs terrain \& métier (Cameroun)
+
+* Chauffeurs relais (taxis et mototaxis / benskin)
+
+
+
+Implication : Fournissent les retours d'expérience concrets dès la phase de maquettage : lisibilité de l'application au volant, gestion de la batterie, tarification perçue et habitudes de circulation.
+
+
+
+* Usagers tests (panel représentatif)
+
+
+
+Implication : Testent les versions bêta en conditions réelles de déplacement (heures de pointe, quartiers périphériques, commandes en zones à faible couverture réseau).
+
+
+
+* Agrégateurs de paiement \& Télécoms (MTN MoMo, Orange Money)
+
+
+
+Implication : Fournissent l'accès aux bacs à sable (sandbox) puis aux APIs de production, gèrent les validations techniques de conformité et l’encaissement des transactions.
+
+
+
+3\. Les interlocuteurs support \& gouvernance
+
+* Conseiller juridique / Expert réglementaire
+
+
+
+Domaine : Encadre la conformité avec la réglementation locale des transports, le statut contractuel des chauffeurs, les conditions générales d’utilisation (CGU) et la protection des données personnelles (conformité ART / lois locales).
+
+
+
+* Administrateur Système / DevOps / Cloud
+
+
+
+Domaine : Met en place les serveurs, la conteneurisation (Docker), la chaîne d'intégration et déploiement continu (CI/CD) ainsi que les outils de monitoring et d’alertes de pannes.
+
+
+
+
+
